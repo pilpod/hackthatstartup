@@ -1,0 +1,7 @@
+Participante:
+Giacomo Corso
+
+Directorio Git original con el proyecto backend:
+https://github.com/pilpod/nuwe-challenge-backend.git
+
+Reto realizado con Laravel

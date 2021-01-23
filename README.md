@@ -1,5 +1,32 @@
 # Hack that startup
 
+## Reto Individual Backend
+
+## Participante:
+Giacomo Corso
+
+## Directorio Git con el proyecto backend:
+https://github.com/pilpod/nuwe-challenge-backend.git
+
+## Framework utilizado
+- Laravel
+
+## Testing
+- TDD (PHPUnit)
+
+## Datos propocionados
+- Diagrama Database hecho con Workbench
+- Json Postman (testeo de API)
+
+## URL Heroku
+- Urls de testeo de API
+(1) https://gentle-fjord-19656.herokuapp.com/api/user/
+(2) https://gentle-fjord-19656.herokuapp.com/api/user/4
+(3) https://gentle-fjord-19656.herokuapp.com/api/user/1/academic-record
+(4) https://gentle-fjord-19656.herokuapp.com/api/user/1/work-experience
+
+## Presentación del challenge
+
 ![banner](/Assets/banner.jpeg)
 
 Tenemos el placer de presentaros el primer evento de [Nuwe](https://nuwe.io) en colaboración con la aceleradora de startups [Demium](https://demium.com/). Este evento consistirá en una hackathon que tendrá lugar entre el 22 y el 24 de enero y que será on-line. En dicha hackathon los usuarios deberán desarrollar diferentes pruebas tanto individuales como por equipos con el objetivo de sumar el máximo de puntos posibles. 
